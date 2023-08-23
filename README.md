@@ -86,3 +86,16 @@ The testing process is very similar to that on PCN:
 ## Acknowledgement
 
 Code is borrowed from SeedFormer, HyperCD loss can be found in loss_utils.py, This loss can be easily implement to other networks such as PointAttN and CP-Net. 
+
+
+## Publication
+Please cite our papers if you use our idea or code:
+```
+@inproceedings{lin2023hyperbolic,
+  title={Hyperbolic Chamfer Distance for Point Cloud Completion},
+  author={Lin, Fangzhou and Yue, Yun and Hou, Songlin and Yu, Xuechu and Xu, Yajun and Yamada, D Kazunori and Zhang, Ziming},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  year={2023}
+}
+```
+
