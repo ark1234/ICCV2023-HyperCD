@@ -6,7 +6,9 @@ Our code and model weights will be released soon!!!
 
 ## UPDATE 
 We update SeedFormer + HyperCD
-# SeedFormer + HyperCD
+
+
+## SeedFormer + HyperCD
 
 ## Installation
 
