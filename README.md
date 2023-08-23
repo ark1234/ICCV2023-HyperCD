@@ -4,8 +4,8 @@ The official repository of the paper "Hyperbolic Chamfer Distance for Point Clou
 ## UPDATE
 Our code and model weights will be released soon!!!
 
-## UPDATE 
-We update SeedFormer + HyperCD
+### UPDATE 
+We update SeedFormer + HyperCD in Aug 23th
 
 
 ## SeedFormer + HyperCD
