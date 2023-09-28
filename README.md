@@ -91,11 +91,13 @@ Code is borrowed from SeedFormer, HyperCD loss can be found in loss_utils.py, Th
 ## Publication
 Please cite our papers if you use our idea or code:
 ```
-@inproceedings{lin2023hyperbolic,
-  title={Hyperbolic Chamfer Distance for Point Cloud Completion},
-  author={Lin, Fangzhou and Yue, Yun and Hou, Songlin and Yu, Xuechu and Xu, Yajun and Yamada, D Kazunori and Zhang, Ziming},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  year={2023}
+@InProceedings{Lin_2023_ICCV,
+    author    = {Lin, Fangzhou and Yue, Yun and Hou, Songlin and Yu, Xuechu and Xu, Yajun and Yamada, Kazunori D and Zhang, Ziming},
+    title     = {Hyperbolic Chamfer Distance for Point Cloud Completion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {14595-14606}
 }
 ```
 
